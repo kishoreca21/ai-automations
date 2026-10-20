@@ -1,0 +1,85 @@
+{
+  "name": "Kishore Kunal",
+  "contact": "<YOUR_EMAIL>  |  <YOUR_PHONE>  |  linkedin.com/in/<YOUR_PROFILE>  |  Gurugram",
+  "summary": "Results-driven Business Analyst with 5+ years at FNZ and Micro Focus, the trusted primary interface for 9 enterprise clients across regulated UK and German wealth-management markets, translating ambiguous business needs into 500+ zero-ambiguity specs, PRDs and Agile user stories, and shaping a global product roadmap. Hands-on with SQL, Power BI, Tableau, JIRA, Confluence, Postman, BPMN process mapping, Figma and Python; pursuing PGDBM at MDI Gurgaon to sharpen business analysis, strategy and product thinking.",
+
+  "logo": {
+    "path": "/home/claude/resume-beautify/examples/mdi_logo.png",
+    "width": 65,
+    "height": 65,
+    "topOffsetEmu": 60000
+  },
+
+  "skillsFormat": "grouped",
+  "skills": [
+    { "label": "Analytics & Data", "items": "SQL (Joins, Subqueries, Window Functions) \u00b7 Power BI \u00b7 Tableau \u00b7 Advanced Excel \u00b7 Forecasting & Time-Series \u00b7 OLS Regression (R, EViews) \u00b7 Financial Analysis & Valuation Modelling" },
+    { "label": "Business Analysis", "items": "PRDs, Functional Specs & API Docs \u00b7 Agile User Stories (INVEST) \u00b7 Requirement Elicitation & Discovery \u00b7 BPMN Process Mapping \u00b7 Gap Analysis \u00b7 MoSCoW, RICE, SIPOC" },
+    { "label": "Delivery, Tools & AI", "items": "JIRA \u00b7 Confluence \u00b7 Postman \u00b7 SIT, UAT & Regression \u00b7 Figma \u00b7 Python \u00b7 RAG \u00b7 Agentic AI (n8n) \u00b7 Data Quality, DPDPA \u00b7 Stakeholder Management & Client Demos" }
+  ],
+
+  "_alternative_skillsInline_comment": "If skillsFormat were 'inline', this would replace skills[]:",
+  "skillsInline": "SQL \u00b7 Power BI \u00b7 Tableau \u00b7 Advanced Excel \u00b7 PRDs \u00b7 Agile User Stories (INVEST) \u00b7 BPMN \u00b7 MoSCoW, RICE, SIPOC \u00b7 JIRA \u00b7 Confluence \u00b7 Postman \u00b7 SIT, UAT \u00b7 Figma \u00b7 Python \u00b7 RAG \u00b7 Agentic AI (n8n) \u00b7 Stakeholder Management",
+
+  "sections": [
+    {
+      "heading": "Work Experience",
+      "blocks": [
+        {
+          "role": "FNZ, Gurugram  |  Analyst Tester",
+          "date": "Dec 2022 - Aug 2025",
+          "bullets": [
+            "Served as the primary client interface for 9 enterprise clients across regulated UK and German wealth-management markets; ran discovery workshops and stakeholder interviews to uncover intent behind feature requests and translate it into structured technical requirements.",
+            "Authored 500+ functional specifications, 100+ Agile user stories and developer-ready PRDs with zero ambiguity; contributed to API specifications and system-integration documentation for third-party services.",
+            "Coordinated end-to-end system integration testing (SIT) and UAT with clients across UK pensions, tax, ISA and GIA portfolios and cross-device platforms, ensuring every delivered product met business requirements and passed acceptance sign-off.",
+            "Conducted gap analysis between current product capabilities and evolving client needs; proposed technical workarounds and new features that were formally adopted into the global product roadmap.",
+            "Wrote complex SQL (joins, subqueries, window functions) for ad-hoc analysis and built automated Power BI, JIRA and Excel dashboards, improving visibility of release cycles and operational efficiency across teams in 3 countries.",
+            "Re-mapped 50+ user stories from a UK project onto the German Goldberry programme, cutting duplicate analysis and protecting an at-risk market-entry deadline; maintained version-controlled business rules in Confluence."
+          ]
+        },
+        {
+          "role": "Micro Focus (OpenText), Bangalore  |  Software Engineer, QA 2",
+          "date": "Aug 2019 - Jul 2022",
+          "bullets": [
+            "Took full QA ownership of a major client account within 6 months of joining; owned the end-to-end release of 2 major service packs and 10+ patch releases and authored customer-facing release notes that measurably improved adoption and reduced support tickets.",
+            "Drove process improvement by re-engineering legacy QA frameworks with automation and risk-based prioritisation, cutting test-suite size by 70% while protecting coverage and accelerating release cycles.",
+            "Improved release predictability and stakeholder transparency through crisp executive presentations, governance dashboards and data-driven status reporting across every release."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Projects & Internship",
+      "blocks": [
+        { "lead": "redBus 'Open Ticket', Product & Workflow Design, MDI Gurgaon (2026): ", "rest": "Designed a UPI-based partial-payment workflow to cut booking abandonment; authored a complete PRD and 18-slide blueprint mapping current vs future-state user journey, payment logic, fraud safeguards and edge cases." },
+        { "lead": "Retail POS Data Analysis, Demand & Operations, MDI Gurgaon (2026): ", "rest": "Analysed multi-year POS transaction data with time-series decomposition, demand forecasting and IQR outlier treatment in Excel; built visual reports surfacing seasonality and operational-efficiency insights to guide inventory decisions." },
+        { "lead": "medbook-rag, Clinical Decision-Support Pipeline (2025 to Present): ", "rest": "Elicited, documented and validated requirements for a DPDPA and Mental Healthcare Act compliant clinical RAG (transcription, prescription OCR, fuzzy medicine matching), defining doctor-in-the-loop verification as a core acceptance criterion." },
+        { "lead": "Supermarket vs Quick-Commerce Research, R & EViews OLS, MDI Gurgaon (2026): ", "rest": "Led a mixed-methods study (OLS regression, n=66) with expert interviews of a Blinkit Growth Manager and a Reliance Retail VP; delivered a research report with sharp competitive and pricing recommendations." }
+      ]
+    },
+    {
+      "heading": "Positions of Responsibility",
+      "blocks": [
+        { "bullet": "Member, Corporate Relations Committee, MDI Gurgaon (2025 to 26): curated 'CorpTalk' C-suite thought-leadership events." },
+        { "bullet": "Logistics Department Head, Sankalan 2026, MDI Gurgaon (2026): owned a Rs. 2.5L budget, 7 C-suite panellists and a 67-task delivery plan." },
+        { "bullet": "Lead Volunteer, SMVIT (2017 to 18): hosted 'Coding & Debugging' and the college's first Gaming Event at 'Verve'." }
+      ]
+    },
+    {
+      "heading": "Awards, Achievements & Certifications",
+      "blocks": [
+        { "bullet": "'Star of the Quarter' at FNZ for stakeholder transparency; 9 'Manager-to-Employee' recognitions from 5 managers at Micro Focus; recognised by the VP of Engineering, Micro Focus for a product-usability gap analysis driving customer-centric improvements." },
+        { "bullet": "GMAT 700; Class XII: 92%; secured the 2nd-highest placement package at SMVIT (B.Tech batch)." },
+        { "bullet": "Certifications: BCS Foundation Certificate in Business Analysis; Concise Product Management; Data Analysis & Visualization using Power BI (KPMG); Agentic AI Engineering Masterclass; NPTEL Cloud Computing." }
+      ]
+    },
+    {
+      "heading": "Education",
+      "blocks": [
+        { "role": "PGDBM (Business Analytics), Management Development Institute (MDI), Gurgaon", "date": "2025 - 2027" },
+        { "role": "B.Tech, Computer Science, Sir M. Visvesvaraya Institute of Technology, Bangalore", "date": "2015 - 2019" }
+      ]
+    }
+  ],
+
+  "density": "compact"
+}
